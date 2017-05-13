@@ -1,11 +1,14 @@
 busy-signal@1.4.1
+elm-format@2.1.0
+elmjutsu@5.5.2
 emmet@2.4.3
 intentions@1.1.2
-language-babel@2.57.7
+language-babel@2.61.0
 language-elm@1.5.0
 language-vue@0.21.2
 linter@2.1.4
+linter-elm-make@0.23.2
 linter-eslint@8.1.7
-linter-ui-default@1.2.3
-vim-mode-plus@0.91.0
+linter-ui-default@1.2.4
+vim-mode-plus@0.92.1
 

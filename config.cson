@@ -1,8 +1,14 @@
 "*":
   core:
     telemetryConsent: "limited"
+  "elm-format":
+    binary: "/Users/ryan/.nvm/versions/node/v6.10.2/bin/elm-format"
+  elmjutsu:
+    cacheDirectory: "/var/folders/1n/xt_p4n692_3cmxnh395jw6pc0000gn/T/elmjutsu1594cqHze3kNp3Yn"
   "exception-reporting":
     userId: "f7c5912c-b204-41f8-800d-922d2ca11adb"
+  "linter-elm-make":
+    elmMakeExecutablePath: "/usr/local/bin/elm-make"
   "linter-ui-default":
     showPanel: true
   welcome:
